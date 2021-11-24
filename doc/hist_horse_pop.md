@@ -3,6 +3,8 @@ Historical horse population in Canada
 
 ## Aim
 
+Xie (2021) R Core Team (2021) Wickham et al. (2019)
+
 This project explores the historical population of horses in Canada
 between 1906 and 1972 for each Province.
 
@@ -55,3 +57,33 @@ time point between 1940 - 1972:
 Below we zoom in and look at the province of Alberta:
 
 <img src="hist_horse_pop_files/figure-gfm/plot province-1.png" title="Figure 2. Another caption" alt="Figure 2. Another caption" width="100%" />
+
+# References
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-R" class="csl-entry">
+
+R Core Team. 2021. *R: A Language and Environment for Statistical
+Computing*. Vienna, Austria: R Foundation for Statistical Computing.
+<https://www.R-project.org/>.
+
+</div>
+
+<div id="ref-tidyverse" class="csl-entry">
+
+Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy
+D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019.
+“Welcome to the <span class="nocase">tidyverse</span>.” *Journal of Open
+Source Software* 4 (43): 1686. <https://doi.org/10.21105/joss.01686>.
+
+</div>
+
+<div id="ref-knitr" class="csl-entry">
+
+Xie, Yihui. 2021. *Knitr: A General-Purpose Package for Dynamic Report
+Generation in r*. <https://yihui.org/knitr/>.
+
+</div>
+
+</div>
