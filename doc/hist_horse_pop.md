@@ -54,7 +54,7 @@ time point between 1940 - 1972:
 | Quebec               |  378800 |   39000 |
 | Saskatchewan         | 1104300 |   58000 |
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of Ontario:
 
 <img src="hist_horse_pop_files/figure-gfm/plot province-1.png" title="Figure 2. Another caption" alt="Figure 2. Another caption" width="100%" />
 
