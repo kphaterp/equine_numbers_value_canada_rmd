@@ -1,6 +1,5 @@
 ---
 title: "Historical horse population in Canada"
-
 output: github_document
 
 ---
@@ -67,7 +66,7 @@ max_horses <- horse_pop %>%
   group_by(Province) %>% 
   summarize(Maximum = max(Value),
             Minimum = min(Value))
-max_horses
+knitr::kable(max_horses)
 ```
 
 Below we zoom in and look at the province of Alberta:
