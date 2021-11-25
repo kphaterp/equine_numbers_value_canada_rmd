@@ -5,8 +5,8 @@ Historical horse population in Canada
 
 Xie (2021) R Core Team (2021) Wickham et al. (2019)
 
-This project explores the historical population of horses in Canada
-between 1906 and 1972 for each Province.
+This project explores the historical population of horses in `Canada`
+between `1906` and `1972` for each Province.
 
 ## Data
 
@@ -40,7 +40,7 @@ visualization would be car sales per year for each Province over the
 time period visualised above to further support this hypothesis.
 
 Next we look at the range of the number horses for each provinces at any
-time point between 1940 - 1972:
+time point between `1940` - `1972`:
 
 | Province             | Maximum | Minimum |
 |:---------------------|--------:|--------:|
